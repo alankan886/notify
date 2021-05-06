@@ -19,7 +19,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/plivo/plivo-go v5.5.1+incompatible
 	github.com/sendgrid/rest v2.6.2+incompatible // indirect
-	github.com/sendgrid/sendgrid-go v3.8.0+incompatible
+	github.com/sendgrid/sendgrid-go v3.10.0+incompatible
 	github.com/sirupsen/logrus v1.7.0 // indirect
 	github.com/slack-go/slack v0.8.1
 	github.com/stretchr/objx v0.3.0 // indirect
