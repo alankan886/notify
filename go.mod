@@ -10,10 +10,9 @@ require (
 	github.com/cschomburg/go-pushbullet v0.0.0-20171206132031-67759df45fbb
 	github.com/dghubble/go-twitter v0.0.0-20201011215211-4b180d0cc78d
 	github.com/dghubble/oauth1 v0.7.0
-	github.com/go-chi/chi v4.1.2+incompatible // indirect
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
 	github.com/jordan-wright/email v4.0.1-0.20210109023952-943e75fe5223+incompatible
-	github.com/mailgun/mailgun-go/v4 v4.3.3
+	github.com/mailgun/mailgun-go/v4 v4.5.2
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1
