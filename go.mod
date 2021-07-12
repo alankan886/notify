@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/ahmdrz/goinsta/v2 v2.4.5
-	github.com/atc0005/go-teams-notify/v2 v2.4.2
+	github.com/atc0005/go-teams-notify/v2 v2.6.0
 	github.com/bwmarrin/discordgo v0.23.2
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/cschomburg/go-pushbullet v0.0.0-20171206132031-67759df45fbb
